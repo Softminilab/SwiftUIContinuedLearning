@@ -10,3 +10,8 @@ SwiftUI Continued Learning, learn more about SwiftUI.
 
 * magnifiactiongesture
   ![magnifiactiongesture](images/magnifiactiongesture.gif)
+
+* DragGesture
+
+  ![draggesture](images/draggesture.gif)
+  
