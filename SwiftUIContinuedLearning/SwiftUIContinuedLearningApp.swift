@@ -19,7 +19,7 @@ struct SwiftUIContinuedLearningApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DragGestureSample2()
         }
     }
 }

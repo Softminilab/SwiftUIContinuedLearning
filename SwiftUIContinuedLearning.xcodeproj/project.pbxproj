@@ -14,6 +14,7 @@
 		06DE28842A7FD66900B2CCC0 /* LongPressGestureSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28832A7FD66900B2CCC0 /* LongPressGestureSample.swift */; };
 		06DE28862A80632400B2CCC0 /* MagnificationGestureSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28852A80632400B2CCC0 /* MagnificationGestureSample.swift */; };
 		06DE28882A81267100B2CCC0 /* DragGestureSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28872A81267100B2CCC0 /* DragGestureSample.swift */; };
+		06DE288A2A8271C100B2CCC0 /* DragGestureSample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28892A8271C100B2CCC0 /* DragGestureSample2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		06DE28832A7FD66900B2CCC0 /* LongPressGestureSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureSample.swift; sourceTree = "<group>"; };
 		06DE28852A80632400B2CCC0 /* MagnificationGestureSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureSample.swift; sourceTree = "<group>"; };
 		06DE28872A81267100B2CCC0 /* DragGestureSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureSample.swift; sourceTree = "<group>"; };
+		06DE28892A8271C100B2CCC0 /* DragGestureSample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureSample2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				06DE28832A7FD66900B2CCC0 /* LongPressGestureSample.swift */,
 				06DE28852A80632400B2CCC0 /* MagnificationGestureSample.swift */,
 				06DE28872A81267100B2CCC0 /* DragGestureSample.swift */,
+				06DE28892A8271C100B2CCC0 /* DragGestureSample2.swift */,
 				06DE28792A7FD00400B2CCC0 /* Assets.xcassets */,
 				06DE287B2A7FD00400B2CCC0 /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				06DE28782A7FD00200B2CCC0 /* ContentView.swift in Sources */,
 				06DE28882A81267100B2CCC0 /* DragGestureSample.swift in Sources */,
+				06DE288A2A8271C100B2CCC0 /* DragGestureSample2.swift in Sources */,
 				06DE28842A7FD66900B2CCC0 /* LongPressGestureSample.swift in Sources */,
 				06DE28862A80632400B2CCC0 /* MagnificationGestureSample.swift in Sources */,
 				06DE28762A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift in Sources */,
