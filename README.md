@@ -15,3 +15,4 @@ SwiftUI Continued Learning, learn more about SwiftUI.
 
   ![draggesture](images/draggesture.gif)
   
+* ScrollViewReader
