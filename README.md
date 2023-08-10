@@ -4,11 +4,13 @@ SwiftUI Continued Learning, learn more about SwiftUI.
 
 
 * LongPressGuesture
+
   ![](images/longpressgesture.gif)
 
   
 
 * magnifiactiongesture
+
   ![magnifiactiongesture](images/magnifiactiongesture.gif)
 
 * DragGesture
@@ -16,3 +18,6 @@ SwiftUI Continued Learning, learn more about SwiftUI.
   ![draggesture](images/draggesture.gif)
   
 * ScrollViewReader
+* geometryReader
+
+  ![draggesture](images/geometryReader.gif)
