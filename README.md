@@ -21,3 +21,4 @@ SwiftUI Continued Learning, learn more about SwiftUI.
 * geometryReader
 
   ![draggesture](images/geometryReader.gif)
+* multiple sheets
