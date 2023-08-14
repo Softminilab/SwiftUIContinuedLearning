@@ -22,3 +22,7 @@ SwiftUI Continued Learning, learn more about SwiftUI.
 
   ![draggesture](images/geometryReader.gif)
 * multiple sheets
+* mask
+
+  ![maks](images/mask.gif)
+
