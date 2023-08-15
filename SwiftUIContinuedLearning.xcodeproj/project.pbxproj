@@ -11,6 +11,7 @@
 		06C8ACE52A8A3DCE00B96326 /* MaskSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8ACE42A8A3DCE00B96326 /* MaskSample.swift */; };
 		06C8ACE72A8AF3E700B96326 /* HapticSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8ACE62A8AF3E700B96326 /* HapticSample.swift */; };
 		06C8ACE92A8BB40E00B96326 /* LocalNotifactionSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8ACE82A8BB40E00B96326 /* LocalNotifactionSample.swift */; };
+		06C8ACEB2A8C45D400B96326 /* HashableSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8ACEA2A8C45D300B96326 /* HashableSample.swift */; };
 		06DE28762A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28752A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift */; };
 		06DE28782A7FD00200B2CCC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28772A7FD00200B2CCC0 /* ContentView.swift */; };
 		06DE287A2A7FD00400B2CCC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06DE28792A7FD00400B2CCC0 /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		06C8ACE42A8A3DCE00B96326 /* MaskSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskSample.swift; sourceTree = "<group>"; };
 		06C8ACE62A8AF3E700B96326 /* HapticSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticSample.swift; sourceTree = "<group>"; };
 		06C8ACE82A8BB40E00B96326 /* LocalNotifactionSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotifactionSample.swift; sourceTree = "<group>"; };
+		06C8ACEA2A8C45D300B96326 /* HashableSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableSample.swift; sourceTree = "<group>"; };
 		06DE28722A7FD00200B2CCC0 /* SwiftUIContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06DE28752A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIContinuedLearningApp.swift; sourceTree = "<group>"; };
 		06DE28772A7FD00200B2CCC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				06C8ACE42A8A3DCE00B96326 /* MaskSample.swift */,
 				06C8ACE62A8AF3E700B96326 /* HapticSample.swift */,
 				06C8ACE82A8BB40E00B96326 /* LocalNotifactionSample.swift */,
+				06C8ACEA2A8C45D300B96326 /* HashableSample.swift */,
 				06DE28792A7FD00400B2CCC0 /* Assets.xcassets */,
 				06DE287B2A7FD00400B2CCC0 /* Preview Content */,
 			);
@@ -178,6 +181,7 @@
 				06DE28842A7FD66900B2CCC0 /* LongPressGestureSample.swift in Sources */,
 				06DE28862A80632400B2CCC0 /* MagnificationGestureSample.swift in Sources */,
 				06DE288E2A851E0F00B2CCC0 /* GeometryReaderSample.swift in Sources */,
+				06C8ACEB2A8C45D400B96326 /* HashableSample.swift in Sources */,
 				06DE28762A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

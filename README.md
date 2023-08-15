@@ -28,3 +28,4 @@ SwiftUI Continued Learning, learn more about SwiftUI.
   
 * Haptic feedback
 * Local notification
+* Hashable

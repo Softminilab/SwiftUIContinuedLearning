@@ -15,10 +15,10 @@ class NotificationManager {
     func requestAuthorization() {
         let options: UNAuthorizationOptions = [.alert, .badge, .sound]
         UNUserNotificationCenter.current().requestAuthorization(options: options) { success, error in
-            if let error = error {
-                print("\(error)")
-            } else {
+            if success {
                 print("Success")
+            } else {
+                print("Error")
             }
         }
     }
@@ -42,11 +42,12 @@ class NotificationManager {
 //
 //        let trigger = UNCalendarNotificationTrigger(dateMatching: dateComponents, repeats: true)
         
+        // location
         let locationCoordinate2D = CLLocationCoordinate2D(
             latitude: 100.00,
             longitude: 100.00
         )
-        
+
         let region = CLCircularRegion(
             center: locationCoordinate2D,
             radius: 100,
@@ -54,7 +55,7 @@ class NotificationManager {
         )
         region.notifyOnExit = true
         region.notifyOnEntry = true
-        
+
         let trigger = UNLocationNotificationTrigger(region: region, repeats: true)
         
         let request = UNNotificationRequest(
