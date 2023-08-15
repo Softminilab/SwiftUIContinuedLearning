@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		06C8ACE32A899BDC00B96326 /* MultipleSheetsSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8ACE22A899BDC00B96326 /* MultipleSheetsSample.swift */; };
 		06C8ACE52A8A3DCE00B96326 /* MaskSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8ACE42A8A3DCE00B96326 /* MaskSample.swift */; };
+		06C8ACE72A8AF3E700B96326 /* HapticSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8ACE62A8AF3E700B96326 /* HapticSample.swift */; };
 		06DE28762A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28752A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift */; };
 		06DE28782A7FD00200B2CCC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE28772A7FD00200B2CCC0 /* ContentView.swift */; };
 		06DE287A2A7FD00400B2CCC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06DE28792A7FD00400B2CCC0 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		06C8ACE22A899BDC00B96326 /* MultipleSheetsSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsSample.swift; sourceTree = "<group>"; };
 		06C8ACE42A8A3DCE00B96326 /* MaskSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskSample.swift; sourceTree = "<group>"; };
+		06C8ACE62A8AF3E700B96326 /* HapticSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticSample.swift; sourceTree = "<group>"; };
 		06DE28722A7FD00200B2CCC0 /* SwiftUIContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06DE28752A7FD00200B2CCC0 /* SwiftUIContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIContinuedLearningApp.swift; sourceTree = "<group>"; };
 		06DE28772A7FD00200B2CCC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				06DE288D2A851E0F00B2CCC0 /* GeometryReaderSample.swift */,
 				06C8ACE22A899BDC00B96326 /* MultipleSheetsSample.swift */,
 				06C8ACE42A8A3DCE00B96326 /* MaskSample.swift */,
+				06C8ACE62A8AF3E700B96326 /* HapticSample.swift */,
 				06DE28792A7FD00400B2CCC0 /* Assets.xcassets */,
 				06DE287B2A7FD00400B2CCC0 /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 			files = (
 				06DE28782A7FD00200B2CCC0 /* ContentView.swift in Sources */,
 				06DE28882A81267100B2CCC0 /* DragGestureSample.swift in Sources */,
+				06C8ACE72A8AF3E700B96326 /* HapticSample.swift in Sources */,
 				06DE288A2A8271C100B2CCC0 /* DragGestureSample2.swift in Sources */,
 				06C8ACE52A8A3DCE00B96326 /* MaskSample.swift in Sources */,
 				06DE288C2A83D3B500B2CCC0 /* ScrollViewReaderSample.swift in Sources */,
