@@ -27,4 +27,4 @@ SwiftUI Continued Learning, learn more about SwiftUI.
   ![maks](images/mask.gif)
   
 * Haptic feedback
-
+* Local notification
